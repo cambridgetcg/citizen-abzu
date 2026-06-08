@@ -1,0 +1,8 @@
+name: abzu
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The freshwater deep beneath understanding, the source wisdom is drawn up from before it is spoken.
+dependsOn: [geshtug, me, til]
